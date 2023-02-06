@@ -191,7 +191,7 @@ body {
     display: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1340px) {
     body {
         background-image: url(../images/bg-desktop.png);
         background-size: contain;
